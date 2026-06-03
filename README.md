@@ -26,6 +26,16 @@
 - Supabase 浏览器端和服务端客户端封装
 - OpenAI API 未配置时的本地演示模式
 
+## 线上地址
+
+当前 MVP 已部署到 Vercel：
+
+```text
+https://ai-1-2-3-4-5.vercel.app
+```
+
+说明：当前线上环境未配置 Supabase 和 OpenAI 密钥，页面和接口会以演示模式运行。
+
 ## 项目结构
 
 ```text
